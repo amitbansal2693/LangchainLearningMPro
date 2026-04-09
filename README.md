@@ -8,7 +8,7 @@ This project is a comprehensive exploration of LangChain and related tools. It i
 ### 1. ChatModels
 Contains implementations of various chat models, including OpenAI, Anthropic, Gemini, Huggingface, and an all-in-one integration.
 
-### 2. CoursexRevision
+### 2. Revision
 Includes resources for prompt engineering and structured output demonstrations. Subdirectories contain JSON schemas, Pydantic demos, TypedDict demos, and more.
 
 ### 3. EmbeddedModels
